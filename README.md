@@ -1,5 +1,5 @@
 - 👋 Hi, I'm @Clovis500c
-- 🌱 I'm currently learning Luau, C
+- 🌱 I'm currently learning Luau
 - 👀 Always Curious To Learn
 
 ## Discord
