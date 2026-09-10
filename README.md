@@ -2,7 +2,7 @@
 - 🌱 I'm currently learning Luau
 - 👀 Always Curious To Learn
 
-## Discord
+### 🔵 Discord
 [![Discord Presence](https://lanyard.cnrad.dev/api/1198419668852031533)](https://discord.com/users/1198419668852031533)
 
 ---
