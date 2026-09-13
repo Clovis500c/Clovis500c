@@ -1,13 +1,13 @@
 ## Hi, I'm Clovis
 
 Self-taught developer with about 3 years of experience in Luau and Roblox Studio.
-Currently learning C and C++, and always digging into projects to understand how they work.
+Currently learning Python, and always digging into projects to understand how they work.
 
 ### Languages & tools
 
-| Proficient | Learning | Tools |
-| :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=lua" /> | <img src="https://skillicons.dev/icons?i=c,cpp,python" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode" /> |
+| Proficient | Learning | Tinkering for fun | Tools |
+| :---: | :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=lua" /> | <img src="https://skillicons.dev/icons?i=python" /> | <img src="https://skillicons.dev/icons?i=c,cpp" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode" /> |
 
 ### Contact
 
