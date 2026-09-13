@@ -15,7 +15,7 @@ Self-taught Luau / Roblox developer · learning Python
 
 | Proficient | Learning | For fun | Tools |
 | :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=lua" /> | <img src="https://skillicons.dev/icons?i=python" /> | <img src="https://skillicons.dev/icons?i=c,cpp" /> | <a href="https://create.roblox.com/"><img src="./assets/roblox-studio-dark.svg" width="48" height="48" alt="Roblox Studio" title="Roblox Studio" /></a> <img src="https://skillicons.dev/icons?i=git,github,vscode" /> <a href="https://github.com/nodeal-framework"><img src="https://avatars.githubusercontent.com/u/305272169?v=4" width="48" height="48" alt="Nodeal" title="Nodeal" /></a> |
+| <img src="https://skillicons.dev/icons?i=lua" /> | <img src="https://skillicons.dev/icons?i=python" /> | <img src="https://skillicons.dev/icons?i=c,cpp" /> | <a href="https://create.roblox.com/"><img src="./assets/roblox-studio-dark.svg" width="48" height="48" alt="Roblox Studio" title="Roblox Studio" /></a> <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" /> <a href="https://github.com/nodeal-framework"><img src="https://avatars.githubusercontent.com/u/305272169?v=4" width="48" height="48" alt="Nodeal" title="Nodeal" /></a> |
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Clovis500c/Clovis500c/output/github-contribution-grid-snake-dark.svg" />
