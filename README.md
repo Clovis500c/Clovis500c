@@ -1,5 +1,10 @@
 ## Hi, I'm Clovis
 
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Clovis500c&style=flat-square&color=00A2FF&label=Profile+views" alt="Profile views" />
+  <a href="https://github.com/Clovis500c?tab=repositories"><img src="https://img.shields.io/github/stars/Clovis500c?style=flat-square&label=Stars&color=00A2FF" alt="Stars" /></a>
+</p>
+
 Self-taught Luau / Roblox developer · learning Python
 
 <p>
@@ -10,7 +15,7 @@ Self-taught Luau / Roblox developer · learning Python
 
 | Proficient | Learning | For fun | Tools |
 | :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=lua" /> | <img src="https://skillicons.dev/icons?i=python" /> | <img src="https://skillicons.dev/icons?i=c,cpp" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode" /> <a href="https://github.com/nodeal-framework"><img src="https://avatars.githubusercontent.com/u/305272169?v=4" width="48" height="48" alt="Nodeal" title="Nodeal" /></a> |
+| <img src="https://skillicons.dev/icons?i=lua" /> | <img src="https://skillicons.dev/icons?i=python" /> | <img src="https://skillicons.dev/icons?i=c,cpp" /> | <a href="https://create.roblox.com/"><img src="./assets/robloxstudio.svg" width="48" height="48" alt="Roblox Studio" title="Roblox Studio" /></a> <img src="https://skillicons.dev/icons?i=git,github,vscode" /> <a href="https://github.com/nodeal-framework"><img src="https://avatars.githubusercontent.com/u/305272169?v=4" width="48" height="48" alt="Nodeal" title="Nodeal" /></a> |
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Clovis500c/Clovis500c/output/github-contribution-grid-snake-dark.svg" />
