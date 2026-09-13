@@ -1,24 +1,28 @@
-- 👋 Hi, I'm @Clovis500c
-- 🌱 I'm currently learning Luau
-- 👀 Always Curious To Learn
+## Hi, I'm Clovis
 
-### 🔵 Discord
+Self-taught developer with about 3 years of experience in Luau and Roblox Studio.
+Currently learning C and C++, and always digging into projects to understand how they work.
+
+### Languages & tools
+
+| Proficient | Learning | Tools |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=lua" /> | <img src="https://skillicons.dev/icons?i=c,cpp,python" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode" /> |
+
+### Contact
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/1198419668852031533)](https://discord.com/users/1198419668852031533)
 
----
+### GitHub stats
 
-### 📊 GitHub Activity
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Clovis500c&theme=github_dark" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Clovis500c&theme=github_dark" height="160" />
+</p>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Clovis500c&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Clovis500c&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Clovis500c&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Clovis500c&theme=github_dark&utcOffset=-4" />
-</div>
+<img src="https://streak-stats.demolab.com/?user=Clovis500c&theme=github-dark-blue&hide_border=true" />
 
----
-
-<!---
-Clovis500c/Clovis500c is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Clovis500c/Clovis500c/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Clovis500c/Clovis500c/output/github-contribution-grid-snake.svg" />
+</picture>
