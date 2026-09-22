@@ -21,7 +21,7 @@
 <text x="25" y="153" font-size="15" font-weight="600" fill="#e8e6e0">7.8M</text>
 <rect x="139.5" y="116" width="117.5" height="46" rx="6" fill="#30302e"/>
 <text x="148.5" y="134" font-size="11" fill="#8e8d88">Tool calls</text>
-<text x="148.5" y="153" font-size="15" font-weight="600" fill="#e8e6e0">7,843</text>
+<text x="148.5" y="153" font-size="15" font-weight="600" fill="#e8e6e0">7,844</text>
 <rect x="263" y="116" width="117.5" height="46" rx="6" fill="#30302e"/>
 <text x="272" y="134" font-size="11" fill="#8e8d88">Peak hour</text>
 <text x="272" y="153" font-size="15" font-weight="600" fill="#e8e6e0">5 PM</text>
@@ -238,8 +238,8 @@
 <text x="16" y="445.2" font-size="12" font-weight="600" fill="#e8e6e0">Models</text>
 <text x="504" y="445.2" font-size="11" text-anchor="end" fill="#8e8d88">share of generated tokens</text>
 <clipPath id="bar457.1923076923077"><rect x="16" y="457.1923076923077" width="488" height="8" rx="4"/></clipPath><g clip-path="url(#bar457.1923076923077)">
-<rect x="16" y="457.2" width="361" height="8" fill="#d97757"/>
-<rect x="377" y="457.2" width="107.9" height="8" fill="#6f9ef0"/>
+<rect x="16" y="457.2" width="360.9" height="8" fill="#d97757"/>
+<rect x="376.9" y="457.2" width="107.9" height="8" fill="#6f9ef0"/>
 <rect x="484.8" y="457.2" width="16.2" height="8" fill="#b7b4aa"/>
 <rect x="501" y="457.2" width="3" height="8" fill="#6b6a64"/>
 </g>
@@ -253,7 +253,7 @@
 <text x="394" y="481.1923076923077" font-size="11" fill="#8e8d88">Other <tspan font-weight="600" fill="#e8e6e0">&#60;0.1%</tspan></text>
 <rect x="16" y="497.2" width="488" height="1" fill="#3a3a37"/>
 <text x="16" y="517.2" font-size="12" font-weight="600" fill="#e8e6e0">Top tools</text>
-<text x="504" y="517.2" font-size="11" text-anchor="end" fill="#8e8d88">7,843 tool calls</text>
+<text x="504" y="517.2" font-size="11" text-anchor="end" fill="#8e8d88">7,844 tool calls</text>
 <rect x="16" y="529.2" width="115.5" height="22" rx="11" fill="#30302e"/>
 <text x="26" y="544.2" font-size="11" fill="#e8e6e0">execute_luau</text>
 <text x="121.5" y="544.2" font-size="11" font-weight="600" text-anchor="end" fill="#8e8d88">1.8k</text>
