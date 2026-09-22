@@ -23,4 +23,6 @@ Always curious to learn new stuff
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/Clovis500c/Clovis500c/output/github-contribution-grid-snake.svg" />
 </picture>
 
+# Vibe Usage 🤩
+
 <a href="https://github.com/Clovis500c/ClaudeUsageChart"><img alt="Claude usage" src="https://raw.githubusercontent.com/Clovis500c/Clovis500c/HEAD/claude-stats/claude-stats.svg" /></a>
