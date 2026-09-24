@@ -25,4 +25,4 @@ Always curious to learn new stuff
 
 # Vibe Usage 🤩
 
-<a href="https://github.com/Clovis500c/ClaudeUsageChart"><img alt="Claude usage" src="https://raw.githubusercontent.com/Clovis500c/Clovis500c/HEAD/claude-stats/claude-stats.svg" /></a>
+<a href="https://github.com/Clovis500c/claude-stats"><img alt="Claude usage" src="https://raw.githubusercontent.com/Clovis500c/Clovis500c/HEAD/claude-stats/claude-stats.svg" /></a>
