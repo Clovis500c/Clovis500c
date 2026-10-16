@@ -24,8 +24,8 @@
 <path class="cs-spark" style="animation-delay:0.74s" d="M323.4 111Q323.4 115 327.4 115Q323.4 115 323.4 119Q323.4 115 319.4 115Q323.4 115 323.4 111Z" fill="#ffffff"/>
 <rect x="16.5" y="64.5" width="487" height="57" rx="9.5" fill="none" stroke="#ffffff" stroke-opacity="0.6"/>
 </g>
-<text x="32" y="103" font-size="26" font-weight="800" fill="#ffffff" fill-opacity="0.6">$3,527</text>
-<text x="32" y="102" font-size="26" font-weight="800" fill="#3b2a06">$3,527</text>
+<text x="32" y="103" font-size="26" font-weight="800" fill="#ffffff" fill-opacity="0.6">$3,574</text>
+<text x="32" y="102" font-size="26" font-weight="800" fill="#3b2a06">$3,574</text>
 <text x="131.6" y="90" font-size="12" font-weight="600" fill="#3b2a06">worth of usage · last 5 months</text>
 <text x="131.6" y="106" font-size="11" fill="#3b2a06" fill-opacity="0.8">at API prices, not the amount paid</text>
 <rect x="426.5" y="81" width="63.5" height="24" rx="12" fill="#3b2a06" fill-opacity="0.12" stroke="#3b2a06" stroke-opacity="0.3"/>
@@ -33,10 +33,10 @@
 <text x="449.5" y="97" font-size="11" font-weight="700" letter-spacing="1" fill="#3b2a06">GOLD</text>
 <rect x="16" y="138" width="117.5" height="46" rx="6" fill="#30302e"/>
 <text x="25" y="156" font-size="11" fill="#8e8d88">Sessions</text>
-<text x="25" y="175" font-size="15" font-weight="600" fill="#e8e6e0">115</text>
+<text x="25" y="175" font-size="15" font-weight="600" fill="#e8e6e0">117</text>
 <rect x="139.5" y="138" width="117.5" height="46" rx="6" fill="#30302e"/>
 <text x="148.5" y="156" font-size="11" fill="#8e8d88">Messages</text>
-<text x="148.5" y="175" font-size="15" font-weight="600" fill="#e8e6e0">93,111</text>
+<text x="148.5" y="175" font-size="15" font-weight="600" fill="#e8e6e0">95,231</text>
 <rect x="263" y="138" width="117.5" height="46" rx="6" fill="#30302e"/>
 <text x="272" y="156" font-size="11" fill="#8e8d88">Active days</text>
 <text x="272" y="175" font-size="15" font-weight="600" fill="#e8e6e0">39</text>
@@ -45,16 +45,16 @@
 <text x="395.5" y="175" font-size="15" font-weight="600" fill="#e8e6e0">8 days</text>
 <rect x="16" y="190" width="117.5" height="46" rx="6" fill="#30302e"/>
 <text x="25" y="208" font-size="11" fill="#8e8d88">Tokens generated</text>
-<text x="25" y="227" font-size="15" font-weight="600" fill="#e8e6e0">92.5M</text>
+<text x="25" y="227" font-size="15" font-weight="600" fill="#e8e6e0">95.4M</text>
 <rect x="139.5" y="190" width="117.5" height="46" rx="6" fill="#30302e"/>
 <text x="148.5" y="208" font-size="11" fill="#8e8d88">Tool calls</text>
-<text x="148.5" y="227" font-size="15" font-weight="600" fill="#e8e6e0">21,557</text>
+<text x="148.5" y="227" font-size="15" font-weight="600" fill="#e8e6e0">22,016</text>
 <rect x="263" y="190" width="117.5" height="46" rx="6" fill="#30302e"/>
 <text x="272" y="208" font-size="11" fill="#8e8d88">Peak hour</text>
 <text x="272" y="227" font-size="15" font-weight="600" fill="#e8e6e0">9 PM</text>
 <rect x="386.5" y="190" width="117.5" height="46" rx="6" fill="#30302e"/>
 <text x="395.5" y="208" font-size="11" fill="#8e8d88">Favorite model</text>
-<text x="395.5" y="227" font-size="15" font-weight="600" fill="#e8e6e0">Opus 5</text>
+<text x="395.5" y="227" font-size="15" font-weight="600" fill="#e8e6e0">Opus 5.5</text>
 <text x="16" y="258" font-size="10.5" fill="#8e8d88">Apr</text>
 <text x="53.8" y="258" font-size="10.5" fill="#8e8d88">May</text>
 <text x="148.2" y="258" font-size="10.5" fill="#8e8d88">Jun</text>
@@ -242,8 +242,8 @@
 <rect x="488.1" y="301.8" width="15.9" height="15.9" rx="3" fill="#6f9ef0"/>
 <rect x="488.1" y="320.7" width="15.9" height="15.9" rx="3" fill="#6f9ef0"/>
 <rect x="488.1" y="339.5" width="15.9" height="15.9" rx="3" fill="#2563d9"/>
-<rect x="488.1" y="358.4" width="15.9" height="15.9" rx="3" fill="#8db3f4"/>
-<text x="16" y="410.2" font-size="11" fill="#8e8d88">Claude wrote ≈ 56× the length of In Search of Lost Time</text>
+<rect x="488.1" y="358.4" width="15.9" height="15.9" rx="3" fill="#6f9ef0"/>
+<text x="16" y="410.2" font-size="11" fill="#8e8d88">Claude wrote ≈ 58× the length of In Search of Lost Time</text>
 <text x="504" y="410.2" font-size="11" text-anchor="end" fill="#8e8d88">More</text>
 <rect x="466.1" y="401.2" width="10" height="10" rx="2" fill="#2563d9"/>
 <rect x="453.1" y="401.2" width="10" height="10" rx="2" fill="#4f86e8"/>
@@ -253,41 +253,41 @@
 <text x="408.1" y="410.2" font-size="11" text-anchor="end" fill="#8e8d88">Less</text>
 <rect x="16" y="427.2" width="488" height="1" fill="#3a3a37"/>
 <text x="16" y="447.2" font-size="12" font-weight="600" fill="#e8e6e0">Tokens</text>
-<text x="504" y="447.2" font-size="11" text-anchor="end" fill="#8e8d88">23.2B processed in total</text>
+<text x="504" y="447.2" font-size="11" text-anchor="end" fill="#8e8d88">23.8B processed in total</text>
 <clipPath id="bar459.1923076923077"><rect x="16" y="459.1923076923077" width="488" height="8" rx="4"/></clipPath><g clip-path="url(#bar459.1923076923077)">
 <rect x="16" y="459.2" width="3" height="8" fill="#d97757"/>
-<rect x="19" y="459.2" width="10" height="8" fill="#6f9ef0"/>
-<rect x="29" y="459.2" width="475" height="8" fill="#57574f"/>
+<rect x="19" y="459.2" width="9.9" height="8" fill="#6f9ef0"/>
+<rect x="28.9" y="459.2" width="475.1" height="8" fill="#57574f"/>
 </g>
 <circle cx="20" cy="479.1923076923077" r="4" fill="#d97757"/>
-<text x="28" y="483.1923076923077" font-size="11" fill="#8e8d88">Written by Claude <tspan font-weight="600" fill="#e8e6e0">92.5M</tspan></text>
+<text x="28" y="483.1923076923077" font-size="11" fill="#8e8d88">Written by Claude <tspan font-weight="600" fill="#e8e6e0">95.4M</tspan></text>
 <circle cx="182.7" cy="479.1923076923077" r="4" fill="#6f9ef0"/>
-<text x="190.7" y="483.1923076923077" font-size="11" fill="#8e8d88">Added to context <tspan font-weight="600" fill="#e8e6e0">476.5M</tspan></text>
+<text x="190.7" y="483.1923076923077" font-size="11" fill="#8e8d88">Added to context <tspan font-weight="600" fill="#e8e6e0">482.4M</tspan></text>
 <circle cx="345.3" cy="479.1923076923077" r="4" fill="#57574f"/>
-<text x="353.3" y="483.1923076923077" font-size="11" fill="#8e8d88">Re-read from cache <tspan font-weight="600" fill="#e8e6e0">22.7B</tspan></text>
+<text x="353.3" y="483.1923076923077" font-size="11" fill="#8e8d88">Re-read from cache <tspan font-weight="600" fill="#e8e6e0">23.2B</tspan></text>
 <rect x="16" y="499.2" width="488" height="1" fill="#3a3a37"/>
 <text x="16" y="519.2" font-size="12" font-weight="600" fill="#e8e6e0">Models</text>
 <text x="504" y="519.2" font-size="11" text-anchor="end" fill="#8e8d88">share of generated tokens</text>
 <clipPath id="bar531.1923076923076"><rect x="16" y="531.1923076923076" width="488" height="8" rx="4"/></clipPath><g clip-path="url(#bar531.1923076923076)">
-<rect x="16" y="531.2" width="235.9" height="8" fill="#d97757"/>
-<rect x="251.9" y="531.2" width="229" height="8" fill="#6f9ef0"/>
-<rect x="481" y="531.2" width="10.2" height="8" fill="#b7b4aa"/>
-<rect x="491.2" y="531.2" width="12.8" height="8" fill="#6b6a64"/>
+<rect x="16" y="531.2" width="236.9" height="8" fill="#d97757"/>
+<rect x="252.9" y="531.2" width="228.8" height="8" fill="#6f9ef0"/>
+<rect x="481.7" y="531.2" width="9.9" height="8" fill="#b7b4aa"/>
+<rect x="491.5" y="531.2" width="12.5" height="8" fill="#6b6a64"/>
 </g>
 <circle cx="20" cy="551.1923076923076" r="4" fill="#d97757"/>
-<text x="28" y="555.1923076923076" font-size="11" fill="#8e8d88">Opus 5 <tspan font-weight="600" fill="#e8e6e0">48%</tspan></text>
+<text x="28" y="555.1923076923076" font-size="11" fill="#8e8d88">Opus 5.5 <tspan font-weight="600" fill="#e8e6e0">49%</tspan></text>
 <circle cx="142" cy="551.1923076923076" r="4" fill="#6f9ef0"/>
-<text x="150" y="555.1923076923076" font-size="11" fill="#8e8d88">Opus 5.5 <tspan font-weight="600" fill="#e8e6e0">47%</tspan></text>
+<text x="150" y="555.1923076923076" font-size="11" fill="#8e8d88">Opus 5 <tspan font-weight="600" fill="#e8e6e0">47%</tspan></text>
 <circle cx="264" cy="551.1923076923076" r="4" fill="#b7b4aa"/>
-<text x="272" y="555.1923076923076" font-size="11" fill="#8e8d88">Opus 4.8 <tspan font-weight="600" fill="#e8e6e0">2.1%</tspan></text>
+<text x="272" y="555.1923076923076" font-size="11" fill="#8e8d88">Opus 4.8 <tspan font-weight="600" fill="#e8e6e0">2%</tspan></text>
 <circle cx="386" cy="551.1923076923076" r="4" fill="#6b6a64"/>
 <text x="394" y="555.1923076923076" font-size="11" fill="#8e8d88">Other <tspan font-weight="600" fill="#e8e6e0">2.6%</tspan></text>
 <rect x="16" y="571.2" width="488" height="1" fill="#3a3a37"/>
 <text x="16" y="591.2" font-size="12" font-weight="600" fill="#e8e6e0">Top tools</text>
-<text x="504" y="591.2" font-size="11" text-anchor="end" fill="#8e8d88">21,557 tool calls</text>
+<text x="504" y="591.2" font-size="11" text-anchor="end" fill="#8e8d88">22,016 tool calls</text>
 <rect x="16" y="603.2" width="69.8" height="22" rx="11" fill="#30302e"/>
 <text x="26" y="618.2" font-size="11" fill="#e8e6e0">Bash</text>
-<text x="75.8" y="618.2" font-size="11" font-weight="600" text-anchor="end" fill="#8e8d88">3.6k</text>
+<text x="75.8" y="618.2" font-size="11" font-weight="600" text-anchor="end" fill="#8e8d88">3.9k</text>
 <rect x="91.8" y="603.2" width="115.5" height="22" rx="11" fill="#30302e"/>
 <text x="101.8" y="618.2" font-size="11" fill="#e8e6e0">execute_luau</text>
 <text x="197.3" y="618.2" font-size="11" font-weight="600" text-anchor="end" fill="#8e8d88">3.5k</text>
