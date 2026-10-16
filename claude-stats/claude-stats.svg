@@ -7,27 +7,27 @@
 <defs><linearGradient id="spend" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d97757"/><stop offset="1" stop-color="#d95799"/></linearGradient></defs>
 <rect x="16" y="64" width="488" height="54" rx="10" fill="url(#spend)"/>
 <rect x="16" y="64" width="488" height="27" rx="10" fill="#ffffff" fill-opacity="0.08"/>
-<text x="32" y="99" font-size="24" font-weight="700" fill="#ffffff">$1,256</text>
+<text x="32" y="99" font-size="24" font-weight="700" fill="#ffffff">$1,268</text>
 <text x="118.9" y="88" font-size="12" font-weight="600" fill="#ffffff">spent in the last 30 days</text>
 <text x="118.9" y="104" font-size="11" fill="#ffffff" fill-opacity="0.8">at API prices</text>
 <rect x="16" y="134" width="117.5" height="46" rx="6" fill="#30302e"/>
 <text x="25" y="152" font-size="11" fill="#8e8d88">Sessions</text>
-<text x="25" y="171" font-size="15" font-weight="600" fill="#e8e6e0">99</text>
+<text x="25" y="171" font-size="15" font-weight="600" fill="#e8e6e0">100</text>
 <rect x="139.5" y="134" width="117.5" height="46" rx="6" fill="#30302e"/>
 <text x="148.5" y="152" font-size="11" fill="#8e8d88">Prompts</text>
-<text x="148.5" y="171" font-size="15" font-weight="600" fill="#e8e6e0">926</text>
+<text x="148.5" y="171" font-size="15" font-weight="600" fill="#e8e6e0">929</text>
 <rect x="263" y="134" width="117.5" height="46" rx="6" fill="#30302e"/>
 <text x="272" y="152" font-size="11" fill="#8e8d88">Active days</text>
-<text x="272" y="171" font-size="15" font-weight="600" fill="#e8e6e0">37</text>
+<text x="272" y="171" font-size="15" font-weight="600" fill="#e8e6e0">38</text>
 <rect x="386.5" y="134" width="117.5" height="46" rx="6" fill="#30302e"/>
 <text x="395.5" y="152" font-size="11" fill="#8e8d88">Longest streak</text>
 <text x="395.5" y="171" font-size="15" font-weight="600" fill="#e8e6e0">8 days</text>
 <rect x="16" y="186" width="117.5" height="46" rx="6" fill="#30302e"/>
 <text x="25" y="204" font-size="11" fill="#8e8d88">Tokens generated</text>
-<text x="25" y="223" font-size="15" font-weight="600" fill="#e8e6e0">14.5M</text>
+<text x="25" y="223" font-size="15" font-weight="600" fill="#e8e6e0">14.6M</text>
 <rect x="139.5" y="186" width="117.5" height="46" rx="6" fill="#30302e"/>
 <text x="148.5" y="204" font-size="11" fill="#8e8d88">Tool calls</text>
-<text x="148.5" y="223" font-size="15" font-weight="600" fill="#e8e6e0">16,579</text>
+<text x="148.5" y="223" font-size="15" font-weight="600" fill="#e8e6e0">16,841</text>
 <rect x="263" y="186" width="117.5" height="46" rx="6" fill="#30302e"/>
 <text x="272" y="204" font-size="11" fill="#8e8d88">Peak hour</text>
 <text x="272" y="223" font-size="15" font-weight="600" fill="#e8e6e0">12 AM</text>
@@ -221,7 +221,7 @@
 <rect x="488.1" y="297.8" width="15.9" height="15.9" rx="3" fill="#363634"/>
 <rect x="488.1" y="316.7" width="15.9" height="15.9" rx="3" fill="#363634"/>
 <rect x="488.1" y="335.5" width="15.9" height="15.9" rx="3" fill="#363634"/>
-<rect x="488.1" y="354.4" width="15.9" height="15.9" rx="3" fill="#363634"/>
+<rect x="488.1" y="354.4" width="15.9" height="15.9" rx="3" fill="#8db3f4"/>
 <text x="16" y="406.2" font-size="11" fill="#8e8d88">Claude wrote ≈ 14× the length of the King James Bible</text>
 <text x="504" y="406.2" font-size="11" text-anchor="end" fill="#8e8d88">More</text>
 <rect x="466.1" y="397.2" width="10" height="10" rx="2" fill="#2563d9"/>
@@ -239,18 +239,18 @@
 <rect x="26.4" y="455.2" width="477.6" height="8" fill="#57574f"/>
 </g>
 <circle cx="20" cy="475.1923076923077" r="4" fill="#d97757"/>
-<text x="28" y="479.1923076923077" font-size="11" fill="#8e8d88">Written by Claude <tspan font-weight="600" fill="#e8e6e0">14.5M</tspan></text>
+<text x="28" y="479.1923076923077" font-size="11" fill="#8e8d88">Written by Claude <tspan font-weight="600" fill="#e8e6e0">14.6M</tspan></text>
 <circle cx="182.7" cy="475.1923076923077" r="4" fill="#6f9ef0"/>
-<text x="190.7" y="479.1923076923077" font-size="11" fill="#8e8d88">Added to context <tspan font-weight="600" fill="#e8e6e0">86M</tspan></text>
+<text x="190.7" y="479.1923076923077" font-size="11" fill="#8e8d88">Added to context <tspan font-weight="600" fill="#e8e6e0">86.5M</tspan></text>
 <circle cx="345.3" cy="475.1923076923077" r="4" fill="#57574f"/>
-<text x="353.3" y="479.1923076923077" font-size="11" fill="#8e8d88">Re-read from cache <tspan font-weight="600" fill="#e8e6e0">5.5B</tspan></text>
+<text x="353.3" y="479.1923076923077" font-size="11" fill="#8e8d88">Re-read from cache <tspan font-weight="600" fill="#e8e6e0">5.6B</tspan></text>
 <rect x="16" y="495.2" width="488" height="1" fill="#3a3a37"/>
 <text x="16" y="515.2" font-size="12" font-weight="600" fill="#e8e6e0">Models</text>
 <text x="504" y="515.2" font-size="11" text-anchor="end" fill="#8e8d88">share of generated tokens</text>
 <clipPath id="bar527.1923076923076"><rect x="16" y="527.1923076923076" width="488" height="8" rx="4"/></clipPath><g clip-path="url(#bar527.1923076923076)">
-<rect x="16" y="527.2" width="232.4" height="8" fill="#d97757"/>
-<rect x="248.4" y="527.2" width="194.5" height="8" fill="#6f9ef0"/>
-<rect x="442.9" y="527.2" width="58.1" height="8" fill="#b7b4aa"/>
+<rect x="16" y="527.2" width="234.4" height="8" fill="#d97757"/>
+<rect x="250.4" y="527.2" width="192.9" height="8" fill="#6f9ef0"/>
+<rect x="443.4" y="527.2" width="57.7" height="8" fill="#b7b4aa"/>
 <rect x="501" y="527.2" width="3" height="8" fill="#6b6a64"/>
 </g>
 <circle cx="20" cy="547.1923076923076" r="4" fill="#d97757"/>
@@ -263,17 +263,17 @@
 <text x="394" y="551.1923076923076" font-size="11" fill="#8e8d88">Other <tspan font-weight="600" fill="#e8e6e0">0.2%</tspan></text>
 <rect x="16" y="567.2" width="488" height="1" fill="#3a3a37"/>
 <text x="16" y="587.2" font-size="12" font-weight="600" fill="#e8e6e0">Top tools</text>
-<text x="504" y="587.2" font-size="11" text-anchor="end" fill="#8e8d88">16,579 tool calls</text>
+<text x="504" y="587.2" font-size="11" text-anchor="end" fill="#8e8d88">16,841 tool calls</text>
 <rect x="16" y="599.2" width="115.5" height="22" rx="11" fill="#30302e"/>
 <text x="26" y="614.2" font-size="11" fill="#e8e6e0">execute_luau</text>
 <text x="121.5" y="614.2" font-size="11" font-weight="600" text-anchor="end" fill="#8e8d88">3.6k</text>
 <rect x="137.5" y="599.2" width="104.1" height="22" rx="11" fill="#30302e"/>
 <text x="147.5" y="614.2" font-size="11" fill="#e8e6e0">multi_edit</text>
 <text x="231.6" y="614.2" font-size="11" font-weight="600" text-anchor="end" fill="#8e8d88">2.4k</text>
-<rect x="247.6" y="599.2" width="58.3" height="22" rx="11" fill="#30302e"/>
+<rect x="247.6" y="599.2" width="69.8" height="22" rx="11" fill="#30302e"/>
 <text x="257.6" y="614.2" font-size="11" fill="#e8e6e0">Bash</text>
-<text x="295.9" y="614.2" font-size="11" font-weight="600" text-anchor="end" fill="#8e8d88">2k</text>
-<rect x="311.9" y="599.2" width="109.8" height="22" rx="11" fill="#30302e"/>
-<text x="321.9" y="614.2" font-size="11" fill="#e8e6e0">script_read</text>
-<text x="411.7" y="614.2" font-size="11" font-weight="600" text-anchor="end" fill="#8e8d88">1.5k</text>
+<text x="307.4" y="614.2" font-size="11" font-weight="600" text-anchor="end" fill="#8e8d88">2.1k</text>
+<rect x="323.4" y="599.2" width="109.8" height="22" rx="11" fill="#30302e"/>
+<text x="333.4" y="614.2" font-size="11" fill="#e8e6e0">script_read</text>
+<text x="423.2" y="614.2" font-size="11" font-weight="600" text-anchor="end" fill="#8e8d88">1.5k</text>
 </svg>
